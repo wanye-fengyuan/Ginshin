@@ -1,0 +1,2 @@
+# Ginshin
+open world
